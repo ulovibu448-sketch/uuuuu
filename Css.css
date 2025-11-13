@@ -1,0 +1,41 @@
+* {
+background-color:grey;
+font-family: Arial, Verdana, sans-serif;
+text-shadow: 30x;}
+
+h1#top {
+    color: pink;
+    font-weight: bold;
+}
+p.note {
+    font-size: 60%;
+}
+.page{
+    border: 20px;
+}
+h1+p{
+background-color: brown;
+margin-top: 10px;
+}
+ h1{
+ font-family: "courier New", monospace;}
+li{
+ color: blue;}
+a{
+ color: orange;}
+div id{
+color: yellow;}
+ h2 {
+ font-family: "courier New", monospace;
+ color: blue;}
+ h3 {
+ font-family: "courier New", monospace;
+ color: red;}
+
+i {
+ color:red;}
+
+ p1 { color:yellow;
+ font-size: 75%;}
+ p2 { color:pink;
+ font-size: 75%;}
